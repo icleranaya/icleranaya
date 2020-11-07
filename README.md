@@ -3,11 +3,6 @@
 I have been a full stack web developer for more than 5 years. I have a high experience in web development with Angular for the front-end, in the sam way for the back-end i master tools like Laravel and NodeJS. I have developed Progressive Web Applications (PWA) implementing these tools.
 
 
-- 🔭 I’m currently working on [Psious](https://psious.com/) and [Kiko Palomares Academy](https://academy.kikopalomares.com/).
-- 🌱 I make videos on my [Youtube Channel](https://youtube.com/kikopalomares/?sub_confirmation=1)
-- 📫 You can reach me on [Instagram](https://instagram.com/kikopalomares)
-- 🤡 Fun fact: I make memes on Instagram
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -20,4 +15,4 @@ I have been a full stack web developer for more than 5 years. I have a high expe
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
+![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
