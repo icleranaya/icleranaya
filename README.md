@@ -6,7 +6,7 @@ I have been a full stack web developer for more than 5 years. I have a high expe
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-70A861?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass&logoColor=white)
@@ -20,4 +20,4 @@ I have been a full stack web developer for more than 5 years. I have a high expe
 ![Git](https://img.shields.io/badge/-Git-F74D27?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Gitlab](https://img.shields.io/badge/-Gitlab-e24329?style=flat-square&logo=gitlab&logoColor=white)
+![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=gitlab)
