@@ -13,7 +13,7 @@ I have been a full stack web developer for more than 5 years. I have a high expe
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vuejs)
+![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
